@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/fjanetzki/static/css/main.073c9b0a.css",
-    "main.js": "/fjanetzki/static/js/main.f455290e.js",
-    "static/js/787.3b4011f0.chunk.js": "/fjanetzki/static/js/787.3b4011f0.chunk.js",
-    "static/media/logo.svg": "/fjanetzki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/fjanetzki/static/css/main.6de0bd5c.css",
+    "main.js": "/fjanetzki/static/js/main.78cf0c02.js",
+    "static/media/xing-icon-logo-svgrepo-com.svg": "/fjanetzki/static/media/xing-icon-logo-svgrepo-com.112a562f83a03d85d3d069edbbb2c97b.svg",
+    "static/media/linkedin-icon-2-logo-svgrepo-com.svg": "/fjanetzki/static/media/linkedin-icon-2-logo-svgrepo-com.9d6c57806071247c3fcb086b59fa3daa.svg",
     "index.html": "/fjanetzki/index.html",
-    "main.073c9b0a.css.map": "/fjanetzki/static/css/main.073c9b0a.css.map",
-    "main.f455290e.js.map": "/fjanetzki/static/js/main.f455290e.js.map",
-    "787.3b4011f0.chunk.js.map": "/fjanetzki/static/js/787.3b4011f0.chunk.js.map"
+    "main.6de0bd5c.css.map": "/fjanetzki/static/css/main.6de0bd5c.css.map",
+    "main.78cf0c02.js.map": "/fjanetzki/static/js/main.78cf0c02.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f455290e.js"
+    "static/css/main.6de0bd5c.css",
+    "static/js/main.78cf0c02.js"
   ]
 }
