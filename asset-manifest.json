@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fjanetzki/static/css/main.6de0bd5c.css",
-    "main.js": "/fjanetzki/static/js/main.7c9c9370.js",
-    "static/media/xing-icon-logo-svgrepo-com.svg": "/fjanetzki/static/media/xing-icon-logo-svgrepo-com.112a562f83a03d85d3d069edbbb2c97b.svg",
-    "static/media/linkedin-icon-2-logo-svgrepo-com.svg": "/fjanetzki/static/media/linkedin-icon-2-logo-svgrepo-com.9d6c57806071247c3fcb086b59fa3daa.svg",
-    "index.html": "/fjanetzki/index.html",
-    "main.6de0bd5c.css.map": "/fjanetzki/static/css/main.6de0bd5c.css.map",
-    "main.7c9c9370.js.map": "/fjanetzki/static/js/main.7c9c9370.js.map"
+    "main.css": "/static/css/main.6de0bd5c.css",
+    "main.js": "/static/js/main.6fcdc036.js",
+    "static/media/xing-icon-logo-svgrepo-com.svg": "/static/media/xing-icon-logo-svgrepo-com.112a562f83a03d85d3d069edbbb2c97b.svg",
+    "static/media/linkedin-icon-2-logo-svgrepo-com.svg": "/static/media/linkedin-icon-2-logo-svgrepo-com.9d6c57806071247c3fcb086b59fa3daa.svg",
+    "index.html": "/index.html",
+    "main.6de0bd5c.css.map": "/static/css/main.6de0bd5c.css.map",
+    "main.6fcdc036.js.map": "/static/js/main.6fcdc036.js.map"
   },
   "entrypoints": [
     "static/css/main.6de0bd5c.css",
-    "static/js/main.7c9c9370.js"
+    "static/js/main.6fcdc036.js"
   ]
 }
