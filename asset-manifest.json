@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fjanetzki/static/css/main.073c9b0a.css",
+    "main.js": "/fjanetzki/static/js/main.f455290e.js",
+    "static/js/787.3b4011f0.chunk.js": "/fjanetzki/static/js/787.3b4011f0.chunk.js",
+    "static/media/logo.svg": "/fjanetzki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fjanetzki/index.html",
+    "main.073c9b0a.css.map": "/fjanetzki/static/css/main.073c9b0a.css.map",
+    "main.f455290e.js.map": "/fjanetzki/static/js/main.f455290e.js.map",
+    "787.3b4011f0.chunk.js.map": "/fjanetzki/static/js/787.3b4011f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f455290e.js"
+  ]
+}
