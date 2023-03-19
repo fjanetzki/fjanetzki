@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6de0bd5c.css",
+    "main.css": "/static/css/main.2530d369.css",
     "main.js": "/static/js/main.6fcdc036.js",
     "static/media/xing-icon-logo-svgrepo-com.svg": "/static/media/xing-icon-logo-svgrepo-com.112a562f83a03d85d3d069edbbb2c97b.svg",
     "static/media/linkedin-icon-2-logo-svgrepo-com.svg": "/static/media/linkedin-icon-2-logo-svgrepo-com.9d6c57806071247c3fcb086b59fa3daa.svg",
     "index.html": "/index.html",
-    "main.6de0bd5c.css.map": "/static/css/main.6de0bd5c.css.map",
+    "main.2530d369.css.map": "/static/css/main.2530d369.css.map",
     "main.6fcdc036.js.map": "/static/js/main.6fcdc036.js.map"
   },
   "entrypoints": [
-    "static/css/main.6de0bd5c.css",
+    "static/css/main.2530d369.css",
     "static/js/main.6fcdc036.js"
   ]
 }
