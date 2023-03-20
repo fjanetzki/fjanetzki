@@ -1,9 +1,8 @@
 .App {
   color: white;
-  background-color: #ffffff;
   height: 100vh;
   width: 100vw;
-  background-image: radial-gradient(circle, #ffffff 0%, #a8a8a8 100%);
+  background-image: radial-gradient(circle, #485563 0%, #29323c 100%);
 }
 
 .Logo-Container {
